@@ -44,3 +44,24 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Deployment Steps
+
+Add the following to the package.json
+
+"homepage": "http://mnlcandelaria.github.io/todo-react-ts",
+
+install gh-pages
+
+npm install gh-pages --save-dev
+
+"scripts": {
+"start": "react-scripts start",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+"build": "react-scripts build",
+"test": "react-scripts test",
+"eject": "react-scripts eject"
+},
+
+then npm run deploy

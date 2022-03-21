@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-react-ts/static/css/main.00aa834d.css",
+    "main.js": "/todo-react-ts/static/js/main.0cad2476.js",
+    "static/js/787.98fa670f.chunk.js": "/todo-react-ts/static/js/787.98fa670f.chunk.js",
+    "index.html": "/todo-react-ts/index.html",
+    "main.00aa834d.css.map": "/todo-react-ts/static/css/main.00aa834d.css.map",
+    "main.0cad2476.js.map": "/todo-react-ts/static/js/main.0cad2476.js.map",
+    "787.98fa670f.chunk.js.map": "/todo-react-ts/static/js/787.98fa670f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00aa834d.css",
+    "static/js/main.0cad2476.js"
+  ]
+}
